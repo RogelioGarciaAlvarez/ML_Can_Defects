@@ -1,2 +1,2 @@
-modelos/rf_optimizado.pkl
-data/mnist.csv
+MNIST/modelos/rf_optimizado.pkl
+MNIST/data/mnist.csv
