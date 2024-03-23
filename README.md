@@ -46,3 +46,4 @@ can_defects
     ├───minor_defect (437 imágenes)
     ├───major_defect (385 imágenes)
     └───critical_defect (401 imágenes)
+
