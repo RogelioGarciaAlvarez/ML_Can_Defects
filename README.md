@@ -42,8 +42,8 @@ can_defects<br>
 │   ├─── major_defect (1.358 imágenes)<br>
 │   └─── critical_defect (1.406 imágenes)<br>
 └─── valid (1.609 imágenes)<br>
-    ├─── no_defect (386 imágenes)<br>
-    ├─── minor_defect (437 imágenes)<br>
-    ├─── major_defect (385 imágenes)<br>
-    └─── critical_defect (401 imágenes)<br>
+│   ├─── no_defect (386 imágenes)<br>
+│   ├─── minor_defect (437 imágenes)<br>
+│   ├─── major_defect (385 imágenes)<br>
+│   └─── critical_defect (401 imágenes)<br>
 
