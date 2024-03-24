@@ -1,11 +1,11 @@
 # Machine Learning Project
 
-# English version
+## English version
 
-# Objective
+### Objective
 Application of a convolutional neural network for detecting defects in food cans
 
-# Sources
+### Sources
 The images were obtained from the website [**Roboflow**](https://roboflow.com/)
 
 - **Title**: canned-food-surface-defect Dataset
@@ -18,7 +18,7 @@ The images were obtained from the website [**Roboflow**](https://roboflow.com/)
 
 This dataset contains information about defects on the surface of canned food. You can find more details and access the dataset through the provided link.
 
-# Data
+### Data
 The classification is performed on 8,095 images, but due to the large size of the entire image set, only a representative sample has been kept in *data/sample_can_defects* directory of the repository.
 
 The images show different types of cans photographed from various angles and distances (with frontal and top views). The defects in the set of cans have been classified into:
@@ -46,12 +46,12 @@ can_defects<br>
 │   ├─── major_defect (385 images)<br>
 │   └─── critical_defect (401 images)<br>
 
-# Spanish version
+## Versión en español
 
-## Objetivo
+### Objetivo
 Aplicación de una red neuronal convolucional para la detección de defectos en latas de comida
 
-## Fuentes
+### Fuentes
 Las imágenes han sido obtenidas del sitio web [**Roboflow**](https://roboflow.com/)
 
 - **Título**: canned-food-surface-defect Dataset
@@ -64,7 +64,7 @@ Las imágenes han sido obtenidas del sitio web [**Roboflow**](https://roboflow.c
 
 Este conjunto de datos contiene información sobre defectos en la superficie de alimentos enlatados. Puedes encontrar más detalles y acceder al conjunto de datos en el enlace proporcionado.
 
-## Datos
+### Datos
 La clasificación se realiza sobre 8.095 imágenes, pero debido al gran tamaño del conjunto de todas las imágenes sólo se ha dejado una muestra representativa de ellas ubicada en el directorio *data/sample_can_defects* del repositorio.
 
 Las imágenes muestran distintos tipos de latas fotografiadas desde diferentes ángulos y distancias (con vistas frontal y superior). La defectología del conjunto de latas se ha clasificado en:
