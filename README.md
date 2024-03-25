@@ -27,7 +27,7 @@ The images show different types of cans photographed from various angles and dis
 - major_defect
 - critical_defect 
 
-The original set of images has been stored in a local directory and it is organized as follows:
+The original set of images has been stored in a local directory and they are organized as follows:
 
 can_defects<br>
 ├─── test (828 images)<br>
